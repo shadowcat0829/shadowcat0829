@@ -21,13 +21,12 @@ Focusing on the intersection of **3D Printing Technology** and **Orthopedic Heal
 - **Current**: Founder & Tech Lead of a 3D Printing MedTech startup in Alberta, Canada.
 - **Previous**: 20+ years of experience in the IT industry, ranging from early network technology development to leading software architecture in listed companies and international firms in Beijing.
 - **Background**: Extensive expertise in commercial software engineering and industrial DIY manufacturing (CO2 Laser Cutting, Material Bonding).
-
 ---
 
 ## 🤝 Let's Connect
 - 📍 **Location**: Sylvan Lake / Edmonton, Alberta, CA
 - 🎯 **Goal**: Scaling personalized orthopedic solutions through decentralized 3D printing.
-- 💬 **Ask me about**: 3D Printing Workflows, Full-stack Architecture, or the best driving routes in Alberta for a Subaru Tribeca!
+- 💬 **Ask me about**: 3D Printing Workflows, Full-stack Architecture, or visit our website: [IFIT TECH INC.](https://www.ifit.ltd)
 
 ---
 *“Turning complex data into wearable comfort.”*
