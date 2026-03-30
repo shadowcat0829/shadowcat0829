@@ -1,4 +1,4 @@
-# Hi there, I'm [Max Bi] 👋
+# Hi there, I'm Max Bi 👋
 
 ### 🇨🇦 Entrepreneur & Full-stack Developer | Based in Sylvan Lake, Alberta
 Focusing on the intersection of **3D Printing Technology** and **Orthopedic Health**. Currently building a customized foot health expert system and automated orthotics manufacturing workflow in Canada.
